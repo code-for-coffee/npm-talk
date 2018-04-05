@@ -1,0 +1,11 @@
+{
+  "name": "porg-or-jedi",
+  "version": "1.0.0",
+  "description": "Is your string a porg or a Jedi character?",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
